@@ -1,9 +1,9 @@
 @{
     RootModule = 'vBaseLabUserThumbnails.schema.psm1';
     ModuleVersion = '1.0';
-    GUID = 'f6b42607-8fdb-4291-9287-12ed1d9cd777';
+    GUID = 'ff836f64-4629-45d7-9b76-0610e3c0fa4b';
     Author = 'Iain Brighton';
     CompanyName = 'Virtual Engine';
     Copyright = '(c) 2019 Virtual Engine Limited. All rights reserved.';
-    Description = 'Virtual Engine training lab user thumbnails/pictures DSC composite resource.';
+    Description = 'Virtual Engine lab user thumbnails/pictures DSC composite resource.';
 }

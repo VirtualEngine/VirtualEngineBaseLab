@@ -1,9 +1,9 @@
 @{
     RootModule = 'vBaseLab.schema.psm1';
     ModuleVersion = '1.0';
-    GUID = '99942d22-ba5b-47f8-ab7a-06c31bbe2a36';
+    GUID = 'f34cc9a3-45ee-405a-86af-d5c89a2fc772';
     Author = 'Iain Brighton';
     CompanyName = 'Virtual Engine';
     Copyright = '(c) 2019 Virtual Engine Limited. All rights reserved.';
-    Description = 'Complete Virtual Engine training lab configuration DSC composite resource.';
+    Description = 'Complete Virtual Engine lab configuration DSC composite resource.';
 }

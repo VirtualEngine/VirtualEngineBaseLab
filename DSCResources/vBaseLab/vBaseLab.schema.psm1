@@ -61,7 +61,7 @@ configuration vBaseLab {
         [System.String[]] $TerminalServerLicenseServers = 'CONTROLLER$'
     )
 
-    ## Avoid recursive loading of the VirtualEngineTrainingLab composite resource
+    ## Avoid recursive loading of the VirtualEngineBaseLab composite resource
     Import-DscResource -Name vBaseLabPasswordPolicy, vBaseLabOUs, vBaseLabUsers, vBaseLabServiceAccounts;
     Import-DscResource -Name vBaseLabGroups, vBaseLabFolders, vBaseLabDfs, vBaseLabGPOs, vBaseLabDns;
     Import-DscResource -Name vBaseLabPrinters, vBaseLabUserThumbnails;

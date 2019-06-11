@@ -1,9 +1,9 @@
 @{
     RootModule = 'vBaseLabPrinters.schema.psm1';
     ModuleVersion = '1.0';
-    GUID = 'a0d7b920-e9d0-412c-9ed2-291f60e9fe26';
+    GUID = '3571b1ec-1d1f-41dc-b923-83a503ce5224';
     Author = 'Iain Brighton';
     CompanyName = 'Virtual Engine';
     Copyright = '(c) 2019 Virtual Engine Limited. All rights reserved.';
-    Description = 'Virtual Engine training lab printers DSC composite resource.';
+    Description = 'Virtual Engine lab printers DSC composite resource.';
 }

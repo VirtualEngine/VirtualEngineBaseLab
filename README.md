@@ -4,33 +4,33 @@ Active Directory lab environment. This module contains the following DSC resourc
 ### Included Resources
 
 * vBaseLab
- * Creates the lab folders, file shares, OUs, users, service accounts and groups.
+  * Creates the lab folders, file shares, OUs, users, service accounts and groups.
 * vBaseLabDfs
- * Creates the lab lab DFS root and folder namespaces.
+  * Creates the lab lab DFS root and folder namespaces.
 * vBaseLabDns
- * Creates the lab DNS aliases and reverse DNS lookup zone.
+  * Creates the lab DNS aliases and reverse DNS lookup zone.
 * vBaseLabFolders
- * Creates the lab folders and file shares.
+  * Creates the lab folders and file shares.
 * vBaseLabGPOs
- * Restores lab GPOs from a backup.
+  * Restores lab GPOs from a backup.
 * vBaseLabGroups
- * Creates the lab Active Directory groups.
+  * Creates the lab Active Directory groups.
 * vBaseLabOUs
- * Creates the lab Active Directory organisational units.
+  * Creates the lab Active Directory organisational units.
 * vBaseLabPasswordPolicy
- * Configures the default lab Active Directory domain password policy.
+  * Configures the default lab Active Directory domain password policy.
 * vBaseLabPrepare
- * Creates the lab seal/preparation script.
+  * Creates the lab seal/preparation script.
 * vBaseLabPrinters
- * Creates the shared department printers.
+  * Creates the shared department printers.
 * vBaseLabScheduledTasks
- * Manages the built-in maintenance scheduled tasks.
+  * Manages the built-in maintenance scheduled tasks.
 * vBaseLabServiceAccounts
- * Creates the lab Active Directory service accounts.
+  * Creates the lab Active Directory service accounts.
 * vBaseLabUsers
- * Creates the lab Active Directory users.
+  * Creates the lab Active Directory users.
 * vBaseLabUserThumbnails
- * Adds lab Active Directory user thumbnails/pictures.
+  * Adds lab Active Directory user thumbnails/pictures.
 
 ### Requirements
 
